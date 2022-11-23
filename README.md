@@ -1,2 +1,2 @@
-# Personal-Projects
-This repository includes amateur projects that I developed during my learning process.
+# Personal-Portfolio-Projects
+This repository includes amateur portfolio project that I developed during my learning process.
